@@ -8,4 +8,6 @@ This code is to demostrate googles tensorflow models like:
 
 Initially data used for this setup is gathered using twitter tweets using Twitter API. 
 
-
+This demo is also used to demo tensorflow services such as:
+1) Tensorboard
+2) 
